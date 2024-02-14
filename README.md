@@ -1,16 +1,18 @@
 Ecole de formation : OpenClassRooms 
 
 
-Projet 7 : Implémenter un modèle de Scoring
+Projet 7 : " IMPLEMENTER UN MODÈLE DE SCORING "
 
 Sommaire :
- Contexte, Objectifs et Set de Données 
- Modélisation 
- Dashboard - Mlflow et Data Drift
- Limites et Améliorations Possibles  
+
+ - Contexte, Objectifs et Set de Données 
+ - Modélisation 
+ - Dashboard - Mlflow et Data Drift
+ - Limites et Améliorations Possibles  
 
 
 Contexte et Objectifs :
+
 La société financière Prêt à Dépenser offre des solutions de crédits à la consommation adaptées aux individus présentant un historique de prêt limité ou inexistant.
 
 
